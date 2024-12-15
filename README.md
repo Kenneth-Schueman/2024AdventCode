@@ -15,10 +15,10 @@ The repository is organized as follows:
 ```
 .
 ├── day01/
-│   ├── input.txt      # Puzzle input for Day 1
 │   └── solution.py    # My solution for Day 1
 ├── day02/
-│   ├── input.txt      # Puzzle input for Day 2
+│   └── solution.py    # My solution for Day 2
+├── day03/
 │   └── solution.py    # My solution for Day 2
 ├── ...
 ├── README.md          # This file
@@ -26,7 +26,7 @@ The repository is organized as follows:
 ```
 
 Each folder corresponds to a specific day, containing:
-- **`input.txt`**: The input data for the puzzle.
+- **`input.txt`**: The input data for the puzzle. (*Optional)
 - **`solution.py`**: The Python script implementing my solution.
 
 ---
@@ -60,11 +60,11 @@ Ensure the `input.txt` file is in the same directory as the script.
 ## Progress
 Here's my progress on the 2024 Advent of Code challenges:
 
-| Day  | Completion |
-|------|--------|
-| 1    | ✅      |
-| 2    | ✅      |
-| 3    | ✅      |
+| Day  | Completion | Passed AoC Check |
+|------|--------|--------|
+| 1    | ✅      | ❌      |
+| 2    | ✅      | ❌      |
+| 3    | ✅      | ❌      |
 
 
 ---
